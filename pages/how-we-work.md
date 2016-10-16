@@ -12,10 +12,10 @@ to working in the open, building accessible products, and deploying early and
 often.
 
 See exactly how we put all of those principles into practice by reading
-through our guides. We’re public about the standards we use,
+through our guides. As a clone of 18F, we’re public about the standards we use
 and we publish any guidance we create for our staff.
 
-### Our guides
+### 18F guides
 
 <div class="usa-grid-full graphic-row">
   <div class="graphic-list-item">

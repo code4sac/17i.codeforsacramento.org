@@ -1,4 +1,0 @@
-no-dash:
-- prohibited: ["-"]
-lowercase:
-- prohibited: ["AZ"]
